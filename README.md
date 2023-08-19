@@ -3,3 +3,4 @@ Machine Learning is widely to get the preffered output.
 
 Following are the Project titles
 1. Iris Flower Classification
+2. Spam Email/SMS Classification
